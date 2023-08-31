@@ -24,3 +24,8 @@ GithudPages: https://maragion.github.io/MastermindAng/.
 Исходный код: https://github.com/maragion/burgers.
 
 GithudPages: https://maragion.github.io/burgers/.
+
+
+## Лендинг
+
+https://bakamoena.editorx.io/my-site-1
