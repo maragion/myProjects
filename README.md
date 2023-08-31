@@ -26,6 +26,6 @@ GithudPages: https://maragion.github.io/MastermindAng/.
 GithudPages: https://maragion.github.io/burgers/.
 
 
-## Лендинг
+## Лендинг на конструкторе Editor X
 
 https://bakamoena.editorx.io/my-site-1
