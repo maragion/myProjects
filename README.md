@@ -33,8 +33,8 @@ https://bakamoena.editorx.io/my-site-1
 
 ## PostsApp - приложение на Angular выводящее список постов
 
-Исходный код: https://github.com/maragion/postsApp .
-GitHubPages: https://maragion.github.io/postsApp/ .
+Исходный код: https://github.com/maragion/postsApp.
+GitHubPages: https://maragion.github.io/postsApp/.
 
 ## Лендинг, свёрстанный на заказ
 
