@@ -6,6 +6,9 @@
 
 GithudPages: https://maragion.github.io/Filter/.
 
+## Лендинг, заказ
+
+GitHubPages: https://maragion.github.io/order/ .
 
 ## Лендинг
 
@@ -43,6 +46,3 @@ https://bakamoena.editorx.io/my-site-1
 
 GitHubPages: https://maragion.github.io/postsApp/.
 
-## Лендинг, свёрстанный на заказ
-
-GitHubPages: https://maragion.github.io/order/ .
