@@ -1,5 +1,12 @@
 # Мои Проекты:
 
+## Таблица с данными на основе Angular Material с возможностью фильтрации
+
+Исходный код: https://github.com/maragion/Filter.
+
+GithudPages: https://maragion.github.io/Filter/.
+
+
 ## Лендинг
 
 Исходный код: https://github.com/maragion/TzHelloBrand.
