@@ -16,7 +16,7 @@ GitHubPages: https://maragion.github.io/order/ .
 
 GithudPages: https://maragion.github.io/TzHelloBrand/.
 
-## ToDoApp
+## ToDoApp Angular
 
 Исходный код: https://github.com/maragion/ToDoApp.
 
