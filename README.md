@@ -30,12 +30,6 @@ GithudPages: https://maragion.github.io/ToDoApp/.
 GithudPages: https://maragion.github.io/MastermindAng/.
 
 
-## Страница Магазина
-Исходный код: https://github.com/maragion/burgers.
-
-GithudPages: https://maragion.github.io/burgers/.
-
-
 ## Лендинг на конструкторе Editor X
 
 https://bakamoena.editorx.io/my-site-1
