@@ -12,10 +12,6 @@ GithudPages: [https://maragion.github.io/ToDoApp/](https://maragion.github.io/ta
 
 GithudPages: https://maragion.github.io/Filter/.
 
-## Лендинг, заказ
-
-GitHubPages: https://maragion.github.io/order/ .
-
 ## Лендинг
 
 Исходный код: https://github.com/maragion/TzHelloBrand.
